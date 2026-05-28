@@ -1,5 +1,18 @@
 # HerKey DevOps Intern Assignment
 
+## Submitted By
+
+**Name:** Umesh H S
+
+## GitHub Repository
+
+https://github.com/UmeshHS/nodejs-devops-app
+
+## Docker Hub Repository
+
+https://hub.docker.com/r/umesh12a/nodejs-devops-app
+
+
 ## Project Overview
 
 This project demonstrates the deployment of a Node.js web application using modern DevOps practices including Docker, GitHub Actions CI/CD, Kubernetes deployment, and health monitoring.

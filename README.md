@@ -153,3 +153,12 @@ Repository contains:
 ## Outcome
 
 Successfully implemented an end-to-end DevOps deployment workflow using Docker, Kubernetes, and CI/CD automation.
+
+## Cloud Compatibility
+
+This project was demonstrated using Minikube for local Kubernetes deployment. The same Docker image and Kubernetes manifests can be deployed to cloud-managed Kubernetes services such as:
+
+* AWS Elastic Kubernetes Service (EKS)
+* Google Kubernetes Engine (GKE)
+
+The deployment files are cloud-compatible and require minimal changes for production deployment.
